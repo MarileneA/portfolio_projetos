@@ -1,0 +1,8 @@
+import re
+
+array([nan, 'Inside leg: Length: 77.7 cm (Size L)',
+       'Inside leg: Length: 89.5 cm (Size 33)',
+       'Waist: Circumference: 90.5 cm (Size 33)'], dtype=object)
+
+
+
